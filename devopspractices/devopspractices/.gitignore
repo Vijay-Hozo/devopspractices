@@ -1,10 +1,5 @@
 node_modules
 ./node_modules
 /node_modules
-
-# Never commit secrets
-.env
+.gitignore
 .env.*
-
-# Logs
-logs/
